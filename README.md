@@ -1,3 +1,7 @@
+## About The Calculator
+
+This percentage calculator is my first project linking up JavaScript functionality with Bootstrap and Materialize to create a quick, modern-looking percentage tool. No more basic html-looking math apps!
+
 <p align="center">
   <a href="http://materializecss.com/">
     <img src="http://materializecss.com/res/materialize.svg" width="150">
@@ -89,7 +93,3 @@ Check out the [CONTRIBUTING document](CONTRIBUTING.md) in the root of the reposi
 
 ## Copyright and license
 Code Copyright 2018 Materialize. Code released under the MIT license.
-
-## About The Calculator
-
-This percentage calculator is my first project linking up JavaScript functionality with Bootstrap and Materialize to create a quick, modern-looking percentage tool. No more basic html-looking math apps!
